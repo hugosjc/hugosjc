@@ -12,10 +12,8 @@
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=hugosjc&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hugosjc&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hugosjc&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-## 🌐 Contact me here
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hugo-alexandro-souza-13077a83/) 
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hugosjc&show_icons=true&locale=en" alt="hugosjc" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hugosjc&" alt="hugosjc" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hugosjc&show_icons=true&locale=en&layout=compact" alt="hugosjc" /></p>
